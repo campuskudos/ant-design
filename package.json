@@ -222,6 +222,9 @@
   "pre-commit": [
     "lint-staged"
   ],
+  "resolutions": {
+    "graceful-fs": "^4.2.9"
+  },
   "sideEffects": [
     "es/**/style/*",
     "lib/**/style/*"
